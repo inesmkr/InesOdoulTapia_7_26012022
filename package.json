@@ -1,0 +1,19 @@
+{
+  "name": "inesodoultapia_7_26012022",
+  "version": "1.0.0",
+  "description": "InesOdoulTapia_7_26012022",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inesmkr/InesOdoulTapia_7_26012022.git"
+  },
+  "author": "Inés ODOUL TAPIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inesmkr/InesOdoulTapia_7_26012022/issues"
+  },
+  "homepage": "https://github.com/inesmkr/InesOdoulTapia_7_26012022#readme"
+}
